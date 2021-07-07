@@ -1,4 +1,4 @@
-#The keyboard cowboy
+# a keyboard cowboy
 
 ![](https://www.hackthebox.eu/badge/image/61706)
 
