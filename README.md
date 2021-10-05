@@ -11,7 +11,7 @@
 		<td align="center" width="440" border="0">
 		<img src="https://github-readme-stats.vercel.app/api?username=xFaraday&show_icons=true&hide_border=true&bg_color=161b22&icon_color=79c0ff&text_color=c9d1d9&title_color=79c0ff" alt="Stats" width="440" />
 	</td>
-			<td>
+			<td align="center">
 			<img src="https://profile-counter.glitch.me/xfaraday/count.svg" alt="hit counter" align="center">
 			</td>
 		</tr>
