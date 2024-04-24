@@ -1,17 +1,8 @@
 <html>
-<head>
-	<style>
-	.flex-container {
-	  display: flex;
-	}
-	</style>
-</head>
 <h1>a keyboard cowboy</h1>
 
 <div class=".flex-container">
-<h3>You are the:</h3>
 <img src="https://profile-counter.glitch.me/xfaraday/count.svg" alt="hit counter" align="center">
-<h3>visitor.</h3>
 </div>
 
 <h3>I pursue efforts in the following:</h3>
